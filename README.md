@@ -28,7 +28,7 @@
         the primeval forest. It was a picture of a boa constrictor in the act of swallowing an animal. Here is a
         copy of the drawing.</p>
 
-    <img src="/img/snake_mouse.jpg" alt="snake eats a mouse">
+    <img src="img/snake_mouse.jpg" alt="snake eats a mouse">
 
     <p>In the book it said: <i>"Boa constrictors swallow their prey whole, without chewing it. After that they are not able
         to move, and they sleep through the six months that they need for digestion."</i></p>
@@ -36,7 +36,7 @@
     <p>I pondered deeply, then, over the adventures of the jungle. And after some work with a colored pencil I succeeded
         in making my first drawing. My Drawing Number One. It looked something like this:</p>
 
-    <img src="/img/a_hat.jpg" alt="A hat">
+    <img src="img/a_hat.jpg" alt="A hat">
 
     <p>I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.</p>
 
@@ -47,7 +47,7 @@
         that the grown-ups could see it clearly. They always need to have things explained. My Drawing Number Two looked
         like this:</p>
 
-    <img src="/img/slon.jpg" alt="slon in snake">
+    <img src="img/slon.jpg" alt="slon in snake">
 
     <p>The grown-ups' response, this time, was to advise me to lay aside my drawings of boa constrictors, whether from
         the inside or the outside, and devote myself instead to geography, history, arithmetic, and grammar. That is
@@ -97,7 +97,7 @@
         best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than
         its model.</p>
 
-    <img src="/img/malyPrinc.jpg" alt="malyPrinc">
+    <img src="img/malyPrinc.jpg" alt="malyPrinc">
 
     <p>That, however, is not my fault. The grown-ups discouraged me in my painter's career when I was six years old, and
         I never learned to draw anything, except boas from the outside and boas from the inside.</p>
@@ -130,7 +130,7 @@
 
     <p>So then I made a drawing.</p>
 
-    <img src="/img/small_lamb.jpg" alt="small_lamb">
+    <img src="img/small_lamb.jpg" alt="small_lamb">
 
     <p>He looked at it carefully, then he said:</p>
 
@@ -138,7 +138,7 @@
 
     <p>So I made another drawing.</p>
 
-    <img src="/img/Beran.jpg" alt="Baran">
+    <img src="img/Beran.jpg" alt="Baran">
 
     <p>My friend smiled gently and indulgently.</p>
 
@@ -150,14 +150,14 @@
 
     <p>"This one is too old. I want a sheep that will live a long time."</p>
 
-    <img src="/img/staryBeranek.jpg" alt="Old Lamb">
+    <img src="img/staryBeranek.jpg" alt="Old Lamb">
 
     <p><i>"This one is too old. I want a sheep that will live a long time."</i></p>
 
     <p>By this time my patience was exhausted, because I was in a hurry to start taking my engine apart. So I tossed off
         this drawing.</p>
 
-    <img src="/img/a_Box.jpg" alt="Box with a sheep inside">
+    <img src="img/a_Box.jpg" alt="Box with a sheep inside">
 
     <p>And I threw out an explanation with it.</p>
 
@@ -191,7 +191,7 @@
     <p>The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated
         for me), he asked me:</p>
 
-    <img src="/img/princNearACliff.jpg" alt="Prince near a cliff">
+    <img src="img/princNearACliff.jpg" alt="Prince near a cliff">
 
     <p><i>"What is that object?"</i></p>
 
@@ -241,7 +241,7 @@
 
     <p>But the little prince seemed shocked by this offer:</p>
 
-    <img src="/img/princeAndStars.jpg" alt="Prince looks at stars">
+    <img src="img/princeAndStars.jpg" alt="Prince looks at stars">
 
     <p><i>"Tie him! What a queer idea!"</i></p>
 
