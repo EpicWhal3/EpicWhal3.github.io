@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Antoine de Saint Exupéry - The little prince</h1>
+    <h3><small><center>Antoine de Saint Exupéry - The little prince</center></small></h3>
 
     <p><small>TO LEON WERTH</small></p>
 
@@ -18,7 +18,7 @@
         cheering up. If all these reasons are not enough, I will dedicate the book to the child from whom this grown-up
         grew. All grown-ups were once children - although few of them remember it. And so I correct my dedication:</p>
 
-    <p>T<small>O LEON WERTH WHEN HE WAS A LITTLE BOY</small></p>
+    <p><small>TO LEON WERTH WHEN HE WAS A LITTLE BOY</small></p>
 
     <hr>
 
@@ -75,7 +75,7 @@
 
     <hr>
 
-    <h1>II</h1>
+    <h2>II</h2>
 
     <p>So I lived my life alone, without anyone that I could really talk to, until I had an accident with my plane in
         the Desert of Sahara, six years ago. Something was broken in my engine. And as I had with me neither a mechanic
@@ -182,7 +182,7 @@
 
     <hr>
 
-    <h1>III</h1>
+    <h2>III</h2>
 
     <p>It took me a long time to learn where he came from. The little prince, who asked me so many questions, never
         seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was
