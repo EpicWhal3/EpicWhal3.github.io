@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h3><small><center>Antoine de Saint Exupéry - The little prince</center></small></h3>
+    <h1><small><center>Antoine de Saint Exupéry - The little prince</center></small></h1>
 
     <p><small>TO LEON WERTH</small></p>
 
